@@ -1,5 +1,5 @@
 # Css-Battle
-##Simple solutions of css battle
+Simple solutions of css battle
 
 + [1_Simple_Square](https://github.com/KasturiWagh/Css-Battle)
 + [2_Carrom](https://github.com/KasturiWagh/Css-Battle)
